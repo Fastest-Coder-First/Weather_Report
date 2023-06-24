@@ -9,9 +9,9 @@ You need to install the requests package of the python by pip install requests.
 Our API key is already generated in the file.
 Open the file in Command Line and give it a city name, it returns and weather condition.
 
-![command line weather report](https://github.com/Fastest-Coder-First/Weather_Report/assets/116293633/45405183-e997-4c95-8a57-908286cc344f)
-![terminal](https://github.com/Fastest-Coder-First/Weather_Report/assets/116293633/e9f651a3-8948-45a5-a063-080b09beef5d)
 
+![command line weather report](https://github.com/Fastest-Coder-First/Weather_Report/assets/116293633/d1c354de-f870-4e76-bdd7-b5add9a98b99)
+![terminal](https://github.com/Fastest-Coder-First/Weather_Report/assets/116293633/d509c949-096c-452e-a961-fbb27ed7ab41)
 Code Developers:
 Firoz Uddin Gauhar firozudd.17@gmail.com
 Aabid Hussain aabidhussainpas@gmail.com
